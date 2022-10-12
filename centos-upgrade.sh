@@ -1,4 +1,4 @@
-#!/usr/bin
+#!/bin/bash
 
 sudo yum upgrade -y 
 
